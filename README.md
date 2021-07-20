@@ -14,12 +14,14 @@
 3.  git add . /  git status / git commit / 
 4.  git remote / git fetch / git push (可以到 Github, Gitlab 或是 Heroku)  
 
-- Github.com  (遠端 儲存 git 的 repository,  其他 heroku, gitlan 也可) 
+- Github.com  (遠端 儲存 git 的 repository,  其他 heroku, gitlan 也可)  
 1. 建帳號 登入 
 2. 可以存 git 的 repository, 存自己的 project (public 或 private)
-3. 可以做 單頁的靜態網頁  如 dean0224.github.io (這個已經無法登入了) 或 dean0123.github.io/db 等
+3. 可以做 單頁的靜態網頁  如 dean0224.github.io (這 個已經無法登入了) 或 dean0123.github.io/db 等
 4. 
 
-- 下載 安裝 VS Code 用來 寫code, 也可以 外掛 docker/github 等功能)
-5. aaa b
-
+- 下載 安裝 VS Code 用來 寫code, 也可以 外掛 docker/g ithub 等功能)
+1. 到目錄下  打開 vscode 裏面 加 外掛 git github
+2. vscode 打開 terminal 下指令  git clone https://github.xxxxxxx  
+3. 修改後 可選  V  或 指令 '$git commit -m "message...."'  
+4. 最後再 選 其他 -> push 或指令 '$git push ..... ' 推送回 github 裏面
